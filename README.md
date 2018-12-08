@@ -1,7 +1,7 @@
 
-#Praktikum7
+# Praktikum7
 
-##Latihan1
+## Latihan1
 
 **Alur algoritma**
 1. Mulai program tersebut
@@ -60,7 +60,7 @@ int main()
 }
 ```
 
-##Latihan2
+## Latihan2
 
 **Alur program**
 1. Mulai program tersebut
@@ -109,7 +109,7 @@ main()
 }
 ```
 
-##Latihan3
+## Latihan3
 
 **Alur algoritma**
 1. Mulai program tersebut 
