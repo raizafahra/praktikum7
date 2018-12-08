@@ -1,6 +1,8 @@
 
 #Praktikum7
+
 ##Latihan1
+
 **Alur algoritma**
 1. Mulai program tersebut
 2. Input interger fungsi (int, int) 
@@ -59,6 +61,7 @@ int main()
 ```
 
 ##Latihan2
+
 **Alur program**
 1. Mulai program tersebut
 2. Input interger fungsi (int a, int b)
@@ -107,6 +110,7 @@ main()
 ```
 
 ##Latihan3
+
 **Alur algoritma**
 1. Mulai program tersebut 
 2. Input menggunakan intruksi void dan menggunakn pointer untuk menetapkan void type data (char s) 
